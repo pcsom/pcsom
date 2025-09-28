@@ -4,4 +4,8 @@ I'm pursuing my BS/MS degree in Computer Science at Georgia Tech, with a passion
 
 I'm always eager to explore new approaches and applications in AI and Machine Learning algorithms. Let's connect!
 
-The best way to reach me is via LinkedIn: [https://www.linkedin.com/in/pranav-somu/](https://www.linkedin.com/in/pranav-somu/)
+The best way to reach me is via email or LinkedIn: 
+
+`<first initial><last name>3@gatech.edu`
+
+[https://www.linkedin.com/in/pranav-somu/](https://www.linkedin.com/in/pranav-somu/)
